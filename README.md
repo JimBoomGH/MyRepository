@@ -6,6 +6,7 @@
 
 面试必看
  Handler机制
+ 
  View的绘制流程
  自定义view
  事件分发机制
