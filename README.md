@@ -5,6 +5,8 @@
 网络框架okhttp:https://blog.csdn.net/xx326664162/article/details/77714126
 
 面试必看
+ 类的加载过程：https://www.cnblogs.com/fanjie/p/6916784.html
+ 安卓的内存机制，堆栈:https://www.cnblogs.com/lcw/p/3942218.html
  Handler机制
  
  View的绘制流程
