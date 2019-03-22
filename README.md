@@ -7,6 +7,13 @@
 面试必看
  类的加载过程：https://www.cnblogs.com/fanjie/p/6916784.html
  安卓的内存机制，堆栈:https://www.cnblogs.com/lcw/p/3942218.html
+ binder机制，app启动流程，两个activity跳转的生命周期
+ 子线程使用handler
+ app如何适配
+ dcl单例
+ debug与release
+ 软引用弱引用
+ 设计模式：观察者，单例
  Handler机制
  
  View的绘制流程
@@ -37,6 +44,6 @@
  
 简历导向：
 
- 音视频编解码  自定义view list（分批加载，分页显示） recycleview 事件分发 okhttp 三级缓存 glide udp tcp ormlite  内存泄漏 anr
+ 音视频编解码  自定义view list（分批加载，分页显示） list recycleview区别（缓存，刷新，下拉，head foot） 事件分发 okhttp 三级缓存 glide udp tcp ormlite  内存泄漏 anr
  
 百度面试：https://blog.csdn.net/kisty_yao/article/details/79447579
