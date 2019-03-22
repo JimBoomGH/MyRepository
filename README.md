@@ -6,8 +6,10 @@
 
 面试必看
  类的加载过程：https://www.cnblogs.com/fanjie/p/6916784.html
+ 
  安卓的内存机制，堆栈:https://www.cnblogs.com/lcw/p/3942218.html
- binder机制，app启动流程，两个activity跳转的生命周期
+ 
+ binder机制，app启动流程，两个activity跳转的生命周期：oncreat-onstart-onresunme  onpause onrestart-onstart-onresunme onstop-ondestroy
  子线程使用handler
  app如何适配
  dcl单例
@@ -15,10 +17,22 @@
  软引用弱引用
  设计模式：观察者，单例
  Handler机制
- 
+ app适配
  View的绘制流程
+ string stringbuffer stringbuilder
+ 并发  各种锁
+ hashmap arraymap sparsemap
+ stratservice bindservide
+ view的生命周期
+ listview多种item的缓存  实现不同type item的管理
  
- 自定义view
+ 安卓6.0新特性：动态权限   8.0:画中画，通知
+ 
+ 线程池的的核心线程数：每秒执行的线程数/ tasks/(timeout/taskcost) //每秒要执行的任务数/（超时时间/每个任务的执行时间）
+ 
+ 类的初始化顺序：静态变量，静态代码块，构造方法
+ 
+ 自定义view及事件冲突
  
  事件分发机制
  
@@ -26,7 +40,7 @@
  
  Android中进程的级别，以及各自的区别。（前台进程，可见进程，服务进程，后台进程）
  
- 线程池的相关知识。
+ 线程池的相关知识。（线程池结合lrucash先从内存中加载，然后从硬盘加载，最后再从网络下载，制作图片缓存框架）
  
  内存泄露，怎样查找，怎么产生的内存泄露。
  
