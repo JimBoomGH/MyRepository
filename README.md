@@ -9,6 +9,8 @@
  
  安卓的内存机制，堆栈:https://www.cnblogs.com/lcw/p/3942218.html
  
+ 复习大纲：https://github.com/JimBoomGH/android_interview     https://github.com/JimBoomGH/LearningNotes
+ 
  binder机制，app启动流程，两个activity跳转的生命周期：oncreat-onstart-onresunme  onpause onrestart-onstart-onresunme onstop-ondestroy
  Handler，Looper, Message：handler发送消息，looper循环遍历消息队列，message消息
  
