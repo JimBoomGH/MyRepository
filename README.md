@@ -63,6 +63,6 @@
  
 简历导向：
 
- 音视频编解码  自定义view list（分批加载，分页显示） list recycleview区别（缓存，刷新，下拉，head foot） 事件分发 okhttp 三级缓存 glide udp tcp ormlite  内存泄漏 anr
+ 音视频编解码  自定义view list（分批加载，分页显示） list recycleview区别（缓存，刷新，下拉，head foot） 事件分发 okhttp 三级缓存 glide udp tcp ormlite  内存泄漏 anr  
  
 百度面试：https://blog.csdn.net/kisty_yao/article/details/79447579
