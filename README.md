@@ -41,7 +41,8 @@
  
  事件分发机制
  
- Binder机制
+ Binder机制 https://blog.csdn.net/lijizhi19950123/article/details/77920054
+ 
  
  Android中进程的级别，以及各自的区别。（前台进程，可见进程，服务进程，后台进程）
  
