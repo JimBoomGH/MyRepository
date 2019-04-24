@@ -61,3 +61,13 @@ Activity#onPause()/onStop()中结合isFinishing()的判断来执行。
 式，这样的处理方式让写的同学更加明确线程池的运行规则，规避资源耗尽的风险。
 
 数据库Cursor 必须确保使用完后关闭，以免内存泄漏。
+
+
+
+------------------------------------
+直播技术点：
+安卓mediacodec音视频编码使用：https://www.jianshu.com/p/f116b6f81ab3
+
+Android主流视频播放及缓存实现原理调研：https://www.jianshu.com/p/f057a03ded0b
+
+
