@@ -13,6 +13,16 @@
 
 安卓学习进阶之路：https://www.cnblogs.com/cr330326/p/8395424.html
 
+用于学习的相关博客：
+
+GreenDao3.2.0项目的接入和简单的使用
+GreenDao3.2的使用，爱不释手
+Android ORM 框架：GreenDao 使用详解（进阶篇）
+GreenDao数据加密相关博客：
+
+greenDAO的使用详解—(4)greenDAO3.2.2结合sqlcipher加密数据库
+greendao3.0以上使用步骤（三）：数据库加密
+
 开发规范：
 【强制】Activity 间的数据通信，对于数据量比较大的，避免使用Intent + Parcelable
 的方式，可以考虑EventBus 等替代方案，以免造成TransactionTooLargeException。
