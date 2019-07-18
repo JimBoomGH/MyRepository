@@ -28,6 +28,9 @@ webrtc官方服务搭建：https://blog.csdn.net/china_jeffery/article/details/8
 webrt安卓源码：https://pan.baidu.com/s/1kUyNE55
 
 git相关操作：
+git remote查看远程窗口名称
+git branch查看分支
+拉取远程服务器origin的master分支：git pull origin master
 git命令大全：https://www.jianshu.com/p/93318220cdce
 
 用于学习的相关博客：
