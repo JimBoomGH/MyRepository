@@ -16,7 +16,8 @@
  
  子线程使用handler:在创造hander前Looper.prepare()，创造完后Looper.loop()，1、Looper.prepare()是给这个Thread创建Looper对象，一个Thead只有一个Looper对象。2、Looper对象需要一个MessageQueue对象一个Looper实例也只有一个MessageQueue。3、调用Looper.loop();  不断遍历MessageQueue中是否有消息。4、Handler 作用是发消息到MessageQueue，从而回掉Handler 的HandleMessage的回掉方法。
  
- app如何适配   多分辨率适配：https://www.jianshu.com/p/ec5a1a30694b   一种分辨率使用一个dimens:https://blog.csdn.net/github_2011/article/details/72636851包含dimens生成器
+ app如何适配   多分辨率适配：https://www.jianshu.com/p/ec5a1a30694b   
+ 一种分辨率使用一个dimens，包含dimens生成器:https://blog.csdn.net/github_2011/article/details/72636851
  
  dcl单例
  debug与release
