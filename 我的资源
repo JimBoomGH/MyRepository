@@ -1,3 +1,11 @@
+------------------------------------
+直播技术点：
+安卓mediacodec音视频编码使用：https://www.jianshu.com/p/f116b6f81ab3
+
+Android主流视频播放及缓存实现原理调研：https://www.jianshu.com/p/f057a03ded0b
+
+摄像头采集数据相关：https://www.2cto.com/kf/201607/532165.html
+
 androidstudio详解：https://developer.android.google.cn/studio/publish/app-signing
 
 安卓开源项目网址：https://p.codekk.com/
@@ -99,10 +107,4 @@ Activity#onPause()/onStop()中结合isFinishing()的判断来执行。
 
 
 
-------------------------------------
-直播技术点：
-安卓mediacodec音视频编码使用：https://www.jianshu.com/p/f116b6f81ab3
 
-Android主流视频播放及缓存实现原理调研：https://www.jianshu.com/p/f057a03ded0b
-
-摄像头采集数据相关：https://www.2cto.com/kf/201607/532165.html
