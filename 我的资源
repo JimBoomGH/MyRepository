@@ -105,4 +105,4 @@ Activity#onPause()/onStop()中结合isFinishing()的判断来执行。
 
 Android主流视频播放及缓存实现原理调研：https://www.jianshu.com/p/f057a03ded0b
 
-
+摄像头采集数据相关：https://www.2cto.com/kf/201607/532165.html
