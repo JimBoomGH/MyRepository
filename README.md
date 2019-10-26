@@ -1,5 +1,7 @@
 # MyRepository
 
+动画入门和进阶文章列表：https://blog.csdn.net/u010126792/article/details/85340010
+
 安卓热修复：https://www.jianshu.com/p/e71ac5dfecbd
 
 安卓开源项目：http://p.codekk.com/detail/Android/lizhifeng-sky/VideoEdit
