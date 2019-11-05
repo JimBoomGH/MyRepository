@@ -1,5 +1,7 @@
 # MyRepository
 
+hashmap: https://www.cnblogs.com/yuanblog/p/4441017.html
+
 安卓异常跟踪：Bugly
 
 内存缓存，本地缓存，linkedhashmap原理：https://blog.csdn.net/qq_15893929/article/details/85229364
