@@ -1,4 +1,9 @@
+
 ------------------------------------
+安卓第三方引用包重复解决：multiDexEnabled true   
+https://blog.csdn.net/gx645/article/details/80611916   
+https://blog.csdn.net/qq_32454537/article/details/79627228
+
 安卓性能优化工具：systrace：https://blog.csdn.net/jscese/article/details/48373319   安卓studio自带profile
 
 安卓性能优化总结：https://www.jianshu.com/p/d71b51a0e29f
