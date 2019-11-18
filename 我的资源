@@ -8,7 +8,9 @@ https://blog.csdn.net/qq_32454537/article/details/79627228
 
 安卓性能优化工具：systrace：https://blog.csdn.net/jscese/article/details/48373319   安卓studio自带profile
 
-安卓性能优化总结：https://www.jianshu.com/p/d71b51a0e29f
+安卓性能优化总结：https://www.jianshu.com/p/d71b51a0e29f    
+
+ include 、merge、ViewStub：https://blog.csdn.net/u012792686/article/details/72901531
 
 内存泄漏：https://www.jianshu.com/p/bdfd2a6b2681   唤醒锁正确使用：https://www.jianshu.com/p/5db15ce7de1e
 
