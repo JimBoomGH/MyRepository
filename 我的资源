@@ -10,7 +10,8 @@ https://blog.csdn.net/qq_32454537/article/details/79627228
 
 安卓性能优化总结：https://www.jianshu.com/p/d71b51a0e29f    
 
- include 、merge、ViewStub：https://blog.csdn.net/u012792686/article/details/72901531
+电量优化：https://blog.csdn.net/u011098381/article/details/79895301
+绘制优化：include 、merge、ViewStub：https://blog.csdn.net/u012792686/article/details/72901531
 
 内存泄漏：https://www.jianshu.com/p/bdfd2a6b2681   唤醒锁正确使用：https://www.jianshu.com/p/5db15ce7de1e
 
