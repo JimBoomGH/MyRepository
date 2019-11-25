@@ -1,5 +1,8 @@
 
 ------------------------------------
+APP通用主流框架(  事半功倍 )：网络：okhttp，retrofit  注解：butterknife  数据库：ormlite，litepal（郭霖，资料完整）  事件通知：evenbus  recycleview：BaseRecyclerViewAdapterHelper
+图片缓存：glide  图片压缩框架：compressor，luban  安卓热修复，更新，异常上报：bugly
+
 okhttp源码解析：
 
 retrofit源码解析：
