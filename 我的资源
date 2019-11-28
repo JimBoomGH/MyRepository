@@ -1,9 +1,15 @@
 
 ------------------------------------
-APP通用主流框架(  事半功倍 )：网络：okhttp，retrofit  注解：butterknife  数据库：ormlite，litepal（郭霖，资料完整）  事件通知：evenbus  recycleview：BaseRecyclerViewAdapterHelper
+APP通用主流框架(  事半功倍 )：网络：okhttp，retrofit  注解：butterknife  数据库：ormlite，litepal（郭霖，资料完整）  
+事件通知：evenbus  recycleview：BaseRecyclerViewAdapterHelper
 图片缓存：glide  图片压缩框架：compressor，luban  安卓热修复，更新，异常上报：bugly  腾讯开源的Android UI框架——QMUI Android     
 开源的各种UI组件：https://hndeveloper.github.io/2017/github-android-ui.html#%E6%8A%BD%E5%B1%89%E8%8F%9C%E5%8D%95
 各种图标icon：https://www.iconfont.cn/
+
+androidstudio编译运行错误：
+简单点来说就是build.gradle(Project)、build.gradle(Module)、gradle-wrapper.properties这三个文件中相关的部分参数出现了问题，
+必须找到一个能个成功运行的依赖版本，参数全部配置正确，而不能只改某一个地方，这样永远无法解决这个报错，我之前就是犯了这个错误，
+每次只改一个地方，而不是整体配置。
 
 okhttp源码解析：
 
