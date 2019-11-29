@@ -11,6 +11,8 @@ androidstudio编译运行错误：
 必须找到一个能个成功运行的依赖版本，参数全部配置正确，而不能只改某一个地方，这样永远无法解决这个报错，我之前就是犯了这个错误，
 每次只改一个地方，而不是整体配置。
 
+opencv人脸识别：https://blog.csdn.net/a1306966795/article/details/90045957
+
 okhttp源码解析：
 
 retrofit源码解析：
