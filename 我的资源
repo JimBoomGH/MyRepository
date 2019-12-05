@@ -1,10 +1,17 @@
 
 ------------------------------------
+
 APP通用主流框架(  事半功倍 )：网络：okhttp，retrofit  注解：butterknife  数据库：ormlite，litepal（郭霖，资料完整）  
 事件通知：evenbus  recycleview：BaseRecyclerViewAdapterHelper
 图片缓存：glide  图片压缩框架：compressor，luban  安卓热修复，更新，异常上报：bugly  腾讯开源的Android UI框架——QMUI Android     
 开源的各种UI组件：https://hndeveloper.github.io/2017/github-android-ui.html#%E6%8A%BD%E5%B1%89%E8%8F%9C%E5%8D%95
 各种图标icon：https://www.iconfont.cn/
+
+手写图片缓存框架：https://github.com/SingleShu/LemonImageLoaderDemo
+涉及的知识点：网络，本地，内存缓存。面向接口的设计，多种下载器的不同实现，动态指向，builder模式，lrucash，hashmap原理，哈希碰撞
+hashmap: https://www.cnblogs.com/yuanblog/p/4441017.html
+内存缓存，本地缓存，linkedhashmap原理：https://blog.csdn.net/qq_15893929/article/details/85229364
+
 
 androidstudio编译运行错误：
 简单点来说就是build.gradle(Project)、build.gradle(Module)、gradle-wrapper.properties这三个文件中相关的部分参数出现了问题，
