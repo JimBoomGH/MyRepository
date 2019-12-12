@@ -7,7 +7,7 @@ APP通用主流框架(  事半功倍 )：网络：okhttp，retrofit  注解：bu
 开源的各种UI组件：https://hndeveloper.github.io/2017/github-android-ui.html#%E6%8A%BD%E5%B1%89%E8%8F%9C%E5%8D%95
 各种图标icon：https://www.iconfont.cn/
 安卓自动测试：monkey   安卓性能测试：GT    androidstudio的profile
-内存泄漏工具：leakcanary  官网https://github.com/square/leakcanary
+内存泄漏工具：leakcanary  https://www.jianshu.com/p/b83ddffcb3b5  官网https://github.com/square/leakcanary
 
 手写图片缓存框架：https://github.com/SingleShu/LemonImageLoaderDemo
 涉及的知识点：网络，本地，内存缓存。面向接口的设计，多种下载器的不同实现，动态指向，builder模式，lrucash，hashmap原理，哈希碰撞
