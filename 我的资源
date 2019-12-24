@@ -17,6 +17,7 @@ APP通用主流框架(  事半功倍 )：网络：okhttp，retrofit  注解：bu
 hashmap: https://www.cnblogs.com/yuanblog/p/4441017.html
 内存缓存，本地缓存，linkedhashmap原理：https://blog.csdn.net/qq_15893929/article/details/85229364
 
+安卓进程通讯AIDL：https://blog.csdn.net/songkai0825/article/details/89345042
 
 androidstudio编译运行错误：
 简单点来说就是build.gradle(Project)、build.gradle(Module)、gradle-wrapper.properties这三个文件中相关的部分参数出现了问题，
