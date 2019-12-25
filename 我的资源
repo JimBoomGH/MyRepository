@@ -18,6 +18,9 @@ hashmap: https://www.cnblogs.com/yuanblog/p/4441017.html
 内存缓存，本地缓存，linkedhashmap原理：https://blog.csdn.net/qq_15893929/article/details/85229364
 
 安卓进程通讯AIDL：https://blog.csdn.net/songkai0825/article/details/89345042
+app的启动流程：https://github.com/JimBoomGH/android_interview/blob/master/android/advance/app-launch.md
+CopyOnWriteArrayList：读读共享、写写互斥、读写互斥、写读互斥。JDK中提供了 CopyOnWriteArrayList 类，相比于在读写锁的思想又更进一步，读取是完全不用加锁的，
+并且更厉害的是：写入也不会阻塞读取操作
 
 androidstudio编译运行错误：
 简单点来说就是build.gradle(Project)、build.gradle(Module)、gradle-wrapper.properties这三个文件中相关的部分参数出现了问题，
