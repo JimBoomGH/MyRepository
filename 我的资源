@@ -14,7 +14,8 @@ APP通用主流框架(  事半功倍 )：网络：okhttp，retrofit  注解：bu
 
 安卓蓝牙开发：https://github.com/Jasonchenlijian/FastBle
 
-摄像头相关：https://juejin.im/entry/56aa36fad342d300542e7510   https://www.jianshu.com/p/0fd646c26f5e
+摄像头相关：https://blog.csdn.net/qq_21898059/article/details/50986290
+https://juejin.im/entry/56aa36fad342d300542e7510   https://www.jianshu.com/p/0fd646c26f5e
 openCamera：https://sourceforge.net/p/opencamera/code/ci/master/tree/
 
 手写图片缓存框架：https://github.com/SingleShu/LemonImageLoaderDemo
