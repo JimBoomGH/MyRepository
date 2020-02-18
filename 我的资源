@@ -11,6 +11,7 @@ APP通用主流框架(  事半功倍 )：网络：okhttp，retrofit  注解：bu
 安卓自动测试：monkey   安卓性能测试：GT    androidstudio的profile
 内存泄漏工具：leakcanary  https://www.jianshu.com/p/b83ddffcb3b5  官网https://github.com/square/leakcanary
 中文使用说明：https://www.liaohuqiu.net/cn/posts/leak-canary-read-me/
+安卓常用工具类的封装（代码工具类）：https://github.com/Blankj/AndroidUtilCode/blob/master/lib/utilcode/README-CN.md
 多分辨率屏幕适配方案：https://github.com/JessYanCoding/AndroidAutoSize/blob/master/README-zh.md
 
 安卓蓝牙开发：https://github.com/Jasonchenlijian/FastBle
