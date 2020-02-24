@@ -57,7 +57,9 @@ opencv安卓实例：https://www.jianshu.com/p/e54eee238b9e     https://github.c
 opencv图像对比：https://www.cnblogs.com/yszzu/p/10257039.html   https://blog.csdn.net/qq_15602525/article/details/62881679
 人脸识别第三方虹软sdk：https://ai.arcsoft.com.cn/manual/docs#/93#12__14
 
-okhttp源码解析：
+安卓反射与动态代理：https://blog.csdn.net/qq_38356174/article/details/104312440
+
+okhttp源码解析：https://github.com/JimBoomGH/android_interview/blob/master/android/open-source-framework.md
 
 retrofit源码解析：https://www.jianshu.com/p/c1a3a881a144
 
