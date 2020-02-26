@@ -25,6 +25,7 @@ openCamera：https://sourceforge.net/p/opencamera/code/ci/master/tree/
 hashmap: https://www.cnblogs.com/yuanblog/p/4441017.html
 hashmap原理:https://blog.csdn.net/weixin_44460333/article/details/86770169
 内存缓存，本地缓存，linkedhashmap原理：https://blog.csdn.net/qq_15893929/article/details/85229364
+安卓生产者消费者:https://blog.csdn.net/haigand/article/details/90551070
 
 全面屏，水滴屏，适配：https://www.jianshu.com/p/2b8db60ba8df
 concurrentHashmap:线程安全的搞笑并发hashmap
