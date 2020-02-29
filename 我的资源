@@ -13,6 +13,7 @@ APP通用主流框架(  事半功倍 )：网络：okhttp，retrofit  注解：bu
 中文使用说明：https://www.liaohuqiu.net/cn/posts/leak-canary-read-me/
 安卓常用工具类的封装（代码工具类）：https://github.com/Blankj/AndroidUtilCode/blob/master/lib/utilcode/README-CN.md
 今日头条多分辨率屏幕适配方案：https://github.com/JessYanCoding/AndroidAutoSize/blob/master/README-zh.md
+插件化框架：virtualapk    热修复框架：Tinker
 
 安卓蓝牙开发：https://github.com/Jasonchenlijian/FastBle
 安卓热修复：https://www.jianshu.com/p/704cac3eb13d
