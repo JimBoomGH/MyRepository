@@ -40,6 +40,7 @@ sparsearray：安卓优化的集合，数量级在100以内
 okhttp：https://blog.csdn.net/qq_29152241/article/details/82011539
 retrofit：https://blog.csdn.net/qq_29152241/article/details/82177648#%E4%B8%89%E3%80%81Retrofit2%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8
 
+binder机制：https://blog.csdn.net/luoshengyang/article/details/6618363/
 安卓进程通讯AIDL：https://blog.csdn.net/songkai0825/article/details/89345042
 app的启动流程：https://github.com/JimBoomGH/android_interview/blob/master/android/advance/app-launch.md
 CopyOnWriteArrayList：读读共享、写写互斥、读写互斥、写读互斥。JDK中提供了 CopyOnWriteArrayList 类，相比于在读写锁的思想又更进一步，读取是完全不用加锁的，
