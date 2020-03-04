@@ -34,6 +34,10 @@ hashmap原理:https://blog.csdn.net/weixin_44460333/article/details/86770169
 内存缓存，本地缓存，linkedhashmap原理：https://blog.csdn.net/qq_15893929/article/details/85229364
 安卓生产者消费者:https://blog.csdn.net/haigand/article/details/90551070
 线程池详解：https://www.cnblogs.com/yysbolg/p/7355800.html
+newFixedThreadPool和newSingleThreadExecutor在默认情况下使用一个无界的LinkedBlockingQueue。但是有两个缺点：
+1. 如果任务一直提交，但线程池又不能及时处理，等待队列将会无限制地加长
+2. 系统资源总会有消耗殆尽
+所以，推荐使用有界的等待队列，避免资源耗尽，当队列填满后，再来新任务，就要用到饱和策略来处理了。
 
 全面屏，水滴屏，适配：https://www.jianshu.com/p/2b8db60ba8df
 concurrentHashmap:线程安全的搞笑并发hashmap
