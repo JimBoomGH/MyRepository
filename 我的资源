@@ -33,7 +33,7 @@ hashmap: https://www.cnblogs.com/yuanblog/p/4441017.html
 hashmap原理:https://blog.csdn.net/weixin_44460333/article/details/86770169
 内存缓存，本地缓存，linkedhashmap原理：https://blog.csdn.net/qq_15893929/article/details/85229364
 安卓生产者消费者:https://blog.csdn.net/haigand/article/details/90551070
-线程池详解：https://www.cnblogs.com/yysbolg/p/7355800.html
+线程池详解：https://www.cnblogs.com/yysbolg/p/7355800.html    https://blog.csdn.net/iromkoear/article/details/65487811（参数）
 newFixedThreadPool和newSingleThreadExecutor在默认情况下使用一个无界的LinkedBlockingQueue。但是有两个缺点：
 1. 如果任务一直提交，但线程池又不能及时处理，等待队列将会无限制地加长
 2. 系统资源总会有消耗殆尽
