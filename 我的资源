@@ -16,7 +16,6 @@ APP通用主流框架(  事半功倍 )：网络：okhttp，retrofit  注解：bu
 https://mp.weixin.qq.com/s/d9QCoBP6kV9VSWvVldVVwA
 https://github.com/JessYanCoding/AndroidAutoSize
 （最早使用不同的layout，不同的drawable资源文件，再来就是使用权重weight，dp，relative，linner，matchparent，今日头条：计算好的 density 在系统中修改）
-
 插件化框架：virtualapk （https://github.com/didi/VirtualAPK）  
 热修复框架：Tinker
 
