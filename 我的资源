@@ -13,6 +13,7 @@ APP通用主流框架(  事半功倍 )：网络：okhttp，retrofit  注解：bu
 中文使用说明：https://www.liaohuqiu.net/cn/posts/leak-canary-read-me/
 安卓常用工具类的封装（代码工具类）：https://github.com/Blankj/AndroidUtilCode/blob/master/lib/utilcode/README-CN.md
 今日头条多分辨率屏幕适配方案：
+https://www.wanandroid.com/blog/show/2343
 https://mp.weixin.qq.com/s/d9QCoBP6kV9VSWvVldVVwA
 https://github.com/JessYanCoding/AndroidAutoSize
 （最早使用不同的layout，不同的drawable资源文件，再来就是使用权重weight，dp，relative，linner，matchparent，今日头条：计算好的 density 在系统中修改）
