@@ -42,6 +42,7 @@ opengl学习：
 https://www.jianshu.com/p/d134a835ebec
 https://github.com/doggycoder/AndroidOpenGLDemo
 https://www.jianshu.com/p/309d489bc344
+https://www.jianshu.com/p/d3d3186eefcb
 
 手写图片缓存框架：https://github.com/SingleShu/LemonImageLoaderDemo
 涉及的知识点：网络，本地，内存缓存。面向接口的设计，多种下载器的不同实现，动态指向，builder模式，lrucash，hashmap原理，哈希碰撞
