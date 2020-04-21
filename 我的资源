@@ -19,6 +19,7 @@ https://github.com/JessYanCoding/AndroidAutoSize
 （最早使用不同的layout，不同的drawable资源文件，再来就是使用权重weight，dp，relative，linner，matchparent，今日头条：计算好的 density 在系统中修改）
 插件化框架：virtualapk （https://github.com/didi/VirtualAPK）  
 热修复框架：Tinker
+安卓开发笔记：https://blog.csdn.net/aqi00/article/details/50012511
 
 安卓蓝牙开发：https://github.com/Jasonchenlijian/FastBle
 终于进入主题了，经过对PathClassLoader、DexClassLoader、BaseDexClassLoader、DexPathList的分析，我们知道，安卓的类加载器在加载一个类时会先从
